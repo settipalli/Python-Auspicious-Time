@@ -1,4 +1,4 @@
-require('./')
+require('../../css/src/main.css')
 
 const name = 'Auspiciuos Time'
 
