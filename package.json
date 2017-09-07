@@ -1,0 +1,24 @@
+{
+  "name": "python-auspicious-time",
+  "version": "1.0.0",
+  "description": "A python-flask based application that parsers one or more online [Panchangam](https://en.wikipedia.org/wiki/Panchangam) websites and lists the most Auspiciuos Time slots in a day.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/settipalli/Python-Auspicious-Time.git"
+  },
+  "author": "Santhoshkumar Settipalli",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/settipalli/Python-Auspicious-Time/issues"
+  },
+  "homepage": "https://github.com/settipalli/Python-Auspicious-Time#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
